@@ -19,4 +19,4 @@ The LinkedRRSet class is a subclass of a given LinkedSet class. It should overri
 <img src="Hotplate/DSA-2019-A1-LinkedRRSet.png" height="400">
 
 ##### Note:
-This is a repository containing the Hotplate project completed by Grace Subianto in 2019 for the Data Structures and Algorithms paper at the Auckland University of Technology. 
+This is a repository containing the Hotplate project completed by Grace Subianto in 2019 for the Data Structures and Algorithms paper at the Auckland University of Technology.
