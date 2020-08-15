@@ -10,5 +10,6 @@
 <img src="Hotplate/DSA-2019-A1-LinkedRRSet.png" height="400">
 
 ## Overview
-This is a repository containing a project 
+This is a repository containing a project creating a single entity that can be part of multiple elements forming a hotplate.
+
 
